@@ -1,7 +1,7 @@
 # VR Meditation App
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5c3cb45e-dee6-4a8f-a222-bf2915a79bc8" alt="VR Meditation" width="400"/>
+  <img src="https://github.com/user-attachments/assets/5c3cb45e-dee6-4a8f-a222-bf2915a79bc8" alt="VR Meditation" width="500"/>
 </p>
 
 ## Overview
@@ -21,4 +21,5 @@ Welcome to the VR Meditation App, an immersive experience designed for relaxatio
 
 Experience the magic firsthand by watching the video demo below:
 
-[![Watch the video](https://img.youtube.com/vi/Ye2SrpA48Dg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ye2SrpA48Dg)
+[![Watch the video](https://via.placeholder.com/800x450.png?text=Video+Demo)](https://www.youtube.com/watch?v=Ye2SrpA48Dg)
+
