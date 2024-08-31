@@ -1,4 +1,4 @@
-## Demo
+## Mystical Forest VR Meditation - Demo (Click on image to view)
 
 [![Watch the video](https://github.com/user-attachments/assets/1be4dce4-b1b2-40cc-866a-1441b7945b05)](https://www.youtube.com/watch?v=Ye2SrpA48Dg)
 
