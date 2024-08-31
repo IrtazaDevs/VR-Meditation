@@ -1,7 +1,6 @@
 # VR Meditation App
 
-![VR Meditation](https://github.com/user-attachments/assets/5c3cb45e-dee6-4a8f-a222-bf2915a79bc8)  
-![App Thumbnail](https://github.com/user-attachments/assets/5c3cb45e-dee6-4a8f-a222-bf2915a79bc8)
+<img src="https://github.com/user-attachments/assets/5c3cb45e-dee6-4a8f-a222-bf2915a79bc8" alt="VR Meditation" width="500"/>
 
 ## Overview
 
@@ -21,3 +20,11 @@ Welcome to the VR Meditation App, an immersive experience designed for relaxatio
 Experience the magic firsthand by watching the video demo below:
 
 [![Watch the video](https://img.youtube.com/vi/Ye2SrpA48Dg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ye2SrpA48Dg)
+
+## Installation
+
+To get started with the VR Meditation App, follow these steps:
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/vr-meditation-app.git
